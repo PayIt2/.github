@@ -4,7 +4,7 @@
 
 Founded in 2007 in Grand Rapids, MI, PayIt2 helps organizers of events, fundraisers, clubs, and group activities create Fund Pages to gather payments from participants. From team sports fees to legal defense fundraising, PayIt2 is an open platform that welcomes virtually any lawful purpose.
 
-We are rebuilding the platform from the ground up with AI-powered campaign creation, automated promotion, and intelligent donor engagement.
+We are rebuilding the platform from the ground up with AI-powered campaign creation, automated promotion, and intelligent participant engagement.
 
 ## Repositories
 
