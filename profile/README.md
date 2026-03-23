@@ -10,7 +10,6 @@ We are rebuilding the platform from the ground up with AI-powered campaign creat
 
 | Repo | Description |
 |------|-------------|
-| [payit2-website](https://github.com/PayIt2/payit2-website) | Marketing website for payit2.com |
 | [payit2-campaign-manager](https://github.com/PayIt2/payit2-campaign-manager) | Open-source Claude plugin for AI-powered campaign management |
 | [payit2-plugins-marketplace](https://github.com/PayIt2/payit2-plugins-marketplace) | Index of AI-powered Claude plugins for PayIt2 |
 
