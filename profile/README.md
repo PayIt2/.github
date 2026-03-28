@@ -2,16 +2,20 @@
 
 **Online payment collection for groups, events, and fundraisers.**
 
-Founded in 2007 in Grand Rapids, MI, PayIt2 helps organizers of events, fundraisers, clubs, and group activities create Fund Pages to gather payments from participants. From team sports fees to legal defense fundraising, PayIt2 is an open platform that welcomes virtually any lawful purpose.
+Founded in 2007 in Grand Rapids, MI, PayIt2 helps organizers create Fund Pages to collect payments from participants — from team sports fees to event tickets to legal defense fundraising. We are an open platform that welcomes virtually any lawful purpose.
 
-We are rebuilding the platform from the ground up with AI-powered campaign creation, automated promotion, and intelligent participant engagement.
+We are rebuilding the platform from the ground up with AI-powered campaign creation, automated promotion, and intelligent supporter engagement.
 
 ## Repositories
 
 | Repo | Description |
 |------|-------------|
-| [payit2-campaign-manager](https://github.com/PayIt2/payit2-campaign-manager) | Open-source Claude plugin for AI-powered campaign management |
-| [payit2-plugins-marketplace](https://github.com/PayIt2/payit2-plugins-marketplace) | Index of AI-powered Claude plugins for PayIt2 |
+| [payit2-app-v2](https://github.com/PayIt2/payit2-app-v2) | Next.js platform rebuild |
+| [payit2-app-v1](https://github.com/PayIt2/payit2-app-v1) | Live .NET application |
+| [payit2-website](https://github.com/PayIt2/payit2-website) | Marketing website |
+| [payit2-campaign-coach](https://github.com/PayIt2/payit2-campaign-coach) | Claude plugin — AI-powered coaching for fundraisers, events, and group collections |
+| [payit2-plugins-marketplace](https://github.com/PayIt2/payit2-plugins-marketplace) | Index of PayIt2 Claude plugins |
+| [payit2-business](https://github.com/PayIt2/payit2-business) | Brand, research, specs, and planning |
 
 ## Links
 
