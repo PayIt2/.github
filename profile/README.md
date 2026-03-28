@@ -10,8 +10,7 @@ We are rebuilding the platform from the ground up with AI-powered campaign creat
 
 | Repo | Description |
 |------|-------------|
-| [payit2-campaign-coach](https://github.com/PayIt2/payit2-campaign-coach) | Claude plugin for AI-powered coaching across fundraisers, events, and group collections |
-| [payit2-plugins-marketplace](https://github.com/PayIt2/payit2-plugins-marketplace) | Index of PayIt2 Claude plugins |
+| [payit2-plugins-marketplace](https://github.com/PayIt2/payit2-plugins-marketplace) | Index of PayIt2 Claude plugins — install Campaign Coach and other AI tools from here |
 
 ## Links
 
