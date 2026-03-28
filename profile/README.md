@@ -10,12 +10,8 @@ We are rebuilding the platform from the ground up with AI-powered campaign creat
 
 | Repo | Description |
 |------|-------------|
-| [payit2-app-v2](https://github.com/PayIt2/payit2-app-v2) | Next.js platform rebuild |
-| [payit2-app-v1](https://github.com/PayIt2/payit2-app-v1) | Live .NET application |
-| [payit2-website](https://github.com/PayIt2/payit2-website) | Marketing website |
 | [payit2-campaign-coach](https://github.com/PayIt2/payit2-campaign-coach) | Claude plugin — AI-powered coaching for fundraisers, events, and group collections |
 | [payit2-plugins-marketplace](https://github.com/PayIt2/payit2-plugins-marketplace) | Index of PayIt2 Claude plugins |
-| [payit2-business](https://github.com/PayIt2/payit2-business) | Brand, research, specs, and planning |
 
 ## Links
 
