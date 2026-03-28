@@ -2,7 +2,7 @@
 
 **Online payment collection for groups, events, and fundraisers.**
 
-Founded in 2007 in Grand Rapids, MI, PayIt2 helps organizers create Fund Pages to collect payments from participants — from team sports fees to event tickets to legal defense fundraising. We are an open platform that welcomes virtually any lawful purpose.
+Founded in 2007 in Grand Rapids, MI, PayIt2 helps organizers create Fund Pages to collect payments from participants, from team sports fees to event tickets to legal defense fundraising. We are an open platform that welcomes virtually any lawful purpose.
 
 We are rebuilding the platform from the ground up with AI-powered campaign creation, automated promotion, and intelligent supporter engagement.
 
@@ -10,7 +10,7 @@ We are rebuilding the platform from the ground up with AI-powered campaign creat
 
 | Repo | Description |
 |------|-------------|
-| [payit2-campaign-coach](https://github.com/PayIt2/payit2-campaign-coach) | Claude plugin — AI-powered coaching for fundraisers, events, and group collections |
+| [payit2-campaign-coach](https://github.com/PayIt2/payit2-campaign-coach) | Claude plugin for AI-powered coaching across fundraisers, events, and group collections |
 | [payit2-plugins-marketplace](https://github.com/PayIt2/payit2-plugins-marketplace) | Index of PayIt2 Claude plugins |
 
 ## Links
