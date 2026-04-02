@@ -10,8 +10,6 @@ We are rebuilding the platform from the ground up with AI-powered campaign creat
 
 | Repo | Description |
 |------|-------------|
-| [payit2-website](https://github.com/PayIt2/payit2-website) | Marketing website at payit2.com |
-| [payit2-campaign-coach](https://github.com/PayIt2/payit2-campaign-coach) | Claude plugin for AI-powered campaign coaching |
 | [payit2-plugins-marketplace](https://github.com/PayIt2/payit2-plugins-marketplace) | Index of PayIt2 Claude plugins |
 
 ## Links
