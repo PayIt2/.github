@@ -11,7 +11,7 @@ We are rebuilding the platform from the ground up with AI-powered campaign creat
 | Repo | Description |
 |------|-------------|
 | [payit2-plugins-marketplace](https://github.com/PayIt2/payit2-plugins-marketplace) | Index of PayIt2 Claude plugins |
-| [payit2-campaign-assistant](https://github.com/PayIt2/payit2-campaign-assistant) | Claude plugin: five skills and one strategy agent for running fundraisers, events, and groups on PayIt2 |
+| [payit2-ai-plugin](https://github.com/PayIt2/payit2-ai-plugin) | The PayIt2 AI plugin for Claude and ChatGPT: five skills and one strategy agent for running fundraisers, events, and groups on PayIt2 |
 
 ## Links
 
